@@ -1,4 +1,4 @@
-# File Sorter
+# Downloaded File Sorter
 A simple Python script to sort files in the user's downloads folder.
 
 ## Requirements
